@@ -1,2 +1,6 @@
 # Comprehensive-SQL-Exploratory-Data-Analysis-EDA-Project
 This project performs detailed exploratory data analysis on layoffs data using SQL. It includes aggregations by company, industry, country, and time, calculates rolling totals, ranks top companies annually, and summarizes key metrics. It demonstrates SQL skills in data aggregation, ranking, and trend analysis for actionable project.
+This SQL Exploratory Data Analysis (EDA) project offers an in-depth examination of a layoffs dataset, showcasing key analytical techniques using SQL queries. 
+The project starts by summarizing critical metrics such as maximum layoffs and percentages, followed by detailed aggregations grouped by companies, industries, countries, and time periods. Using rolling totals and ranking functions, it highlights trends and ranks top companies affected by layoffs annually, providing valuable insights on data patterns over time.
+The structured approach demonstrates advanced SQL skills for data aggregation, window functions, and time-series analysis. 
+This comprehensive EDA process is designed to help analysts and data professionals understand data distributions, temporal changes, and key business indicators, making it an excellent resource for learning and demonstrating proficiency in SQL-based data analysis and reporting.
